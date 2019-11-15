@@ -1,0 +1,13 @@
+name: pydata
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - rasterio
+  - xarray
+  - jupyter
+  - python
+  - matplotlib
+  - netcdf4
+  - descartes
